@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ReactRealmJsTemplateApp",
+    "slug": "ReactRealmJsTemplateApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "aks.com.app1"
+    },
+    "android": {
+      "package": "aks.com.app1"
+    }
+  }
+}
